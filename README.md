@@ -12,6 +12,8 @@ Included alongside sample code is also a quick use version of the *FFmpeg.AutoGe
 
 The current pre-built version of FFmpeg.AutoGen is the FFmpeg bindings, developed by Ruslan-B, for [**FFmpeg version 3.2**](https://www.ffmpeg.org/doxygen/3.2/).
 
+This samples repository will be kept up-to-date with the main FFmpeg.AutoGen repository so new pre-built version are available to use.
+
 All you need to do in order to use the version FFmpeg.AutoGen DLL library (in the AV_Libraries folder) in your code is by making sure that:
 
 1.	you have **added a reference** to the FFmpeg.AutoGen DLL,

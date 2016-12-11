@@ -1,0 +1,8 @@
+C:\Users\goel\Desktop\Program Workspace\Git-work\FFmpeg.AutoGen.Samples\samples\FFmpeg.AutoGen.Samples\bin\Debug\FFmpeg.AutoGen.Samples.exe.config
+C:\Users\goel\Desktop\Program Workspace\Git-work\FFmpeg.AutoGen.Samples\samples\FFmpeg.AutoGen.Samples\bin\Debug\FFmpeg.AutoGen.Samples.exe
+C:\Users\goel\Desktop\Program Workspace\Git-work\FFmpeg.AutoGen.Samples\samples\FFmpeg.AutoGen.Samples\bin\Debug\FFmpeg.AutoGen.Samples.pdb
+C:\Users\goel\Desktop\Program Workspace\Git-work\FFmpeg.AutoGen.Samples\samples\FFmpeg.AutoGen.Samples\bin\Debug\FFmpeg.AutoGen.dll
+C:\Users\goel\Desktop\Program Workspace\Git-work\FFmpeg.AutoGen.Samples\samples\FFmpeg.AutoGen.Samples\bin\Debug\FFmpeg.AutoGen.pdb
+C:\Users\goel\Desktop\Program Workspace\Git-work\FFmpeg.AutoGen.Samples\samples\FFmpeg.AutoGen.Samples\obj\Debug\FFmpeg.AutoGen.Samples.csprojResolveAssemblyReference.cache
+C:\Users\goel\Desktop\Program Workspace\Git-work\FFmpeg.AutoGen.Samples\samples\FFmpeg.AutoGen.Samples\obj\Debug\FFmpeg.AutoGen.Samples.exe
+C:\Users\goel\Desktop\Program Workspace\Git-work\FFmpeg.AutoGen.Samples\samples\FFmpeg.AutoGen.Samples\obj\Debug\FFmpeg.AutoGen.Samples.pdb
